@@ -6,51 +6,57 @@
 
 ## Table of Content
 
-- [Awesome Papers](#awesome-papers)
-- [MLLM Math/STEM Dataset](#mllm-math/stem-dataset)
-- [MLLM Math/STEM Benchmark](#mllm-math/stem-benchmark)
+- [Awesome-Multimodal-LLM-for-Math/STEM ](#awesome-multimodal-llm-for-mathstem-)
+  - [Table of Content](#table-of-content)
+  - [Awesome Papers](#awesome-papers)
+  - [MLLM Math/STEM Dataset](#mllm-mathstem-dataset)
+  - [MLLM Math/STEM Benchmark](#mllm-mathstem-benchmark)
+  - [Contributors](#contributors)
 
 ## Awesome Papers
+1. **MAVIS: Mathematical Visual Instruction Tuning** `Preprint`
+   
+   _Renrui Zhang, Xinyu Wei, Dongzhi Jiang, Yichi Zhang, Ziyu Guo,Chengzhuo Tong, Jiaming Liu, Aojun Zhou, Bin Wei, Shanghang Zhang, Peng Gao, Hongsheng Li._[[Paper](https://arxiv.org/pdf/2407.08739)], 2024.7
 
 1. **COMET: “Cone of experience” enhanced large multimodal model for mathematical problem generation.** `Preprint`
 
    _Sannyuya Liu, Jintian Feng, Zongkai Yang, Yawei Luo, Qian Wan, Xiaoxuan Shen, Jianwen Sun._ [[Paper](https://arxiv.org/abs/2407.11315v1)], 2024.7
 
-2. **ChartX & ChartVLM: A Versatile Benchmark and Foundation Model for Complicated Chart Reasoning.** `Preprint`
-
-   _Renqiu Xia, Bo Zhang, Hancheng Ye, Xiangchao Yan, Qi Liu, Hongbin Zhou, Zijun Chen, Min Dou, Botian Shi, Junchi Yan, Yu Qiao._ [[Paper](https://arxiv.org/abs/2402.12185)], 2024.2
-
-3. **InstructDoc: A Dataset for Zero-Shot Generalization of Visual Document Understanding with Instructions.** `Preprint`
-
-   _Ryota Tanaka, Taichi Iki, Kyosuke Nishida, Kuniko Saito, Jun Suzuki._ [[Paper](https://arxiv.org/abs/2401.13313)], 2024.1
-
-4. **mPLUG-PaperOwl: Scientific Diagram Analysis with the Multimodal Large Language Models.** `Preprint`
-
-   _Anwen Hu, Yaya Shi, Haiyang Xu, Jiabo Ye, Qinghao Ye, Ming Yan, Chenliang Li, Qi Qian, Ji Zhang, Fei Huang._ [[Paper](https://arxiv.org/abs/2311.18248)], 2023.11
-
-5. **mPLUG-DocOwl 1.5: Unified Structure Learning for OCR-free Document Understanding.** `Preprint`
-
-   _Anwen Hu, Haiyang Xu, Jiabo Ye, Ming Yan, Liang Zhang, Bo Zhang, Chen Li, Ji Zhang, Qin Jin, Fei Huang, Jingren Zhou._ [[Paper](https://arxiv.org/abs/2403.12895)], 2024.3
-
-6. **Chart-based Reasoning: Transferring Capabilities from LLMs to VLMs.** `ACL 2024`
-
-   _Anwen Hu, Haiyang Xu, Jiabo Ye, Ming Yan, Liang Zhang, Bo Zhang, Chen Li, Ji Zhang, Qin Jin, Fei Huang, Jingren Zhou._ [[Paper](https://arxiv.org/abs/2403.12596)], 2024.3
-
-7. **TextSquare: Scaling up Text-Centric Visual Instruction Tuning.** `Preprint`
-
-   _Jingqun Tang, Chunhui Lin, Zhen Zhao, Shu Wei, Binghong Wu, Qi Liu, Hao Feng, Yang Li, Siqi Wang, Lei Liao, Wei Shi, Yuliang Liu, Hao Liu, Yuan Xie, Xiang Bai, Can Huang._ [[Paper](https://arxiv.org/abs/2404.12803)], 2024.4
-
-8. **Accessing GPT-4 level Mathematical Olympiad Solutions via Monte Carlo Tree Self-refine with LLaMa-3 8B: A Technical Report.** `Preprint`
+1. **Accessing GPT-4 level Mathematical Olympiad Solutions via Monte Carlo Tree Self-refine with LLaMa-3 8B: A Technical Report.** `Preprint`
 
    _Di Zhang, Xiaoshui Huang, Dongzhan Zhou, Yuqiang Li, Wanli Ouyang._ [[Paper](https://arxiv.org/abs/2406.07394)], 2024.6
 
-9. **Visual SKETCHPAD: Sketching as a Visual Chain of Thought for Multimodal Language Models.** `Preprint`
+1. **Visual SKETCHPAD: Sketching as a Visual Chain of Thought for Multimodal Language Models.** `Preprint`
 
    _Yushi Hu, Weijia Shi, Xingyu Fu, Dan Roth, Mari Ostendorf, Luke Zettlemoyer, Noah A Smith, Ranjay Krishna._ [[Paper](https://arxiv.org/abs/2406.09403)], [[Code](https://visualsketchpad.github.io/)], 2024.6
 
-10. **G-LLaVA: Solving Geometric Problem with Multi-Modal Large Language Model.** `Preprint`
+1. **TextSquare: Scaling up Text-Centric Visual Instruction Tuning.** `Preprint`
+
+   _Jingqun Tang, Chunhui Lin, Zhen Zhao, Shu Wei, Binghong Wu, Qi Liu, Hao Feng, Yang Li, Siqi Wang, Lei Liao, Wei Shi, Yuliang Liu, Hao Liu, Yuan Xie, Xiang Bai, Can Huang._ [[Paper](https://arxiv.org/abs/2404.12803)], 2024.4
+
+1. **Chart-based Reasoning: Transferring Capabilities from LLMs to VLMs.** `ACL 2024`
+
+   _Anwen Hu, Haiyang Xu, Jiabo Ye, Ming Yan, Liang Zhang, Bo Zhang, Chen Li, Ji Zhang, Qin Jin, Fei Huang, Jingren Zhou._ [[Paper](https://arxiv.org/abs/2403.12596)], 2024.3
+
+1. **mPLUG-DocOwl 1.5: Unified Structure Learning for OCR-free Document Understanding.** `Preprint`
+
+   _Anwen Hu, Haiyang Xu, Jiabo Ye, Ming Yan, Liang Zhang, Bo Zhang, Chen Li, Ji Zhang, Qin Jin, Fei Huang, Jingren Zhou._ [[Paper](https://arxiv.org/abs/2403.12895)], 2024.3
+
+1. **ChartX & ChartVLM: A Versatile Benchmark and Foundation Model for Complicated Chart Reasoning.** `Preprint`
+
+   _Renqiu Xia, Bo Zhang, Hancheng Ye, Xiangchao Yan, Qi Liu, Hongbin Zhou, Zijun Chen, Min Dou, Botian Shi, Junchi Yan, Yu Qiao._ [[Paper](https://arxiv.org/abs/2402.12185)], 2024.2
+
+1. **InstructDoc: A Dataset for Zero-Shot Generalization of Visual Document Understanding with Instructions.** `Preprint`
+
+   _Ryota Tanaka, Taichi Iki, Kyosuke Nishida, Kuniko Saito, Jun Suzuki._ [[Paper](https://arxiv.org/abs/2401.13313)], 2024.1
+
+1. **G-LLaVA: Solving Geometric Problem with Multi-Modal Large Language Model.** `Preprint`
 
     _Jiahui Gao, Renjie Pi, Jipeng Zhang, Jiacheng Ye, Wanjun Zhong, Yufei Wang, Lanqing Hong, Jianhua Han, Hang Xu, Zhenguo Li, Lingpeng Kong._ [[Paper](https://arxiv.org/abs/2312.11370)], [[Code](https://github.com/pipilurj/G-LLaVA)], 2023.12
+
+1. **mPLUG-PaperOwl: Scientific Diagram Analysis with the Multimodal Large Language Models.** `Preprint`
+
+   _Anwen Hu, Yaya Shi, Haiyang Xu, Jiabo Ye, Qinghao Ye, Ming Yan, Chenliang Li, Qi Qian, Ji Zhang, Fei Huang._ [[Paper](https://arxiv.org/abs/2311.18248)], 2023.11
 
 ## MLLM Math/STEM Dataset
 
