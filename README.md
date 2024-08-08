@@ -14,8 +14,9 @@
   - [Contributors](#contributors)
 
 ## Awesome Papers
+
 1. **MAVIS: Mathematical Visual Instruction Tuning** `Preprint`
-   
+
    _Renrui Zhang, Xinyu Wei, Dongzhi Jiang, Yichi Zhang, Ziyu Guo,Chengzhuo Tong, Jiaming Liu, Aojun Zhou, Bin Wei, Shanghang Zhang, Peng Gao, Hongsheng Li._[[Paper](https://arxiv.org/pdf/2407.08739)], 2024.7
 
 1. **COMET: “Cone of experience” enhanced large multimodal model for mathematical problem generation.** `Preprint`
@@ -52,7 +53,7 @@
 
 1. **G-LLaVA: Solving Geometric Problem with Multi-Modal Large Language Model.** `Preprint`
 
-    _Jiahui Gao, Renjie Pi, Jipeng Zhang, Jiacheng Ye, Wanjun Zhong, Yufei Wang, Lanqing Hong, Jianhua Han, Hang Xu, Zhenguo Li, Lingpeng Kong._ [[Paper](https://arxiv.org/abs/2312.11370)], [[Code](https://github.com/pipilurj/G-LLaVA)], 2023.12
+   _Jiahui Gao, Renjie Pi, Jipeng Zhang, Jiacheng Ye, Wanjun Zhong, Yufei Wang, Lanqing Hong, Jianhua Han, Hang Xu, Zhenguo Li, Lingpeng Kong._ [[Paper](https://arxiv.org/abs/2312.11370)], [[Code](https://github.com/pipilurj/G-LLaVA)], 2023.12
 
 1. **mPLUG-PaperOwl: Scientific Diagram Analysis with the Multimodal Large Language Models.** `Preprint`
 
@@ -92,8 +93,9 @@
 | [**Geo170K**](https://github.com/pipilurj/G-LLaVA)                                         |                                                                                               [G-LLaVA: Solving Geometric Problem with Multi-Modal Large Language Model](https://arxiv.org/abs/2312.11370)                                                                                               |                                                                     Utilize the geometry characteristic to construct a multi-modal geometry dataset, building upon existing datasets.                                                                     |
 | [**SciOL/MuLMS-Img**](https://github.com/boschresearch/)                                   | [SciOL and MuLMS-Img: Introducing A Large-Scale Multimodal Scientific Dataset and Models for Image-Text Tasks in the Scientific Domain](https://openaccess.thecvf.com/content/WACV2024/papers/Tarsi_SciOL_and_MuLMS-Img_Introducing_a_Large-Scale_Multimodal_Scientific_Dataset_and_WACV_2024_paper.pdf) |                                                                                            Pretraining corpus for multimodal models in the scientific domain.                                                                                             |
 | [**PlotQA**](https://github.com/NiteshMethani/PlotQA/blob/master/PlotQA_Dataset.md)        |                                                                                                               [PlotQA: Reasoning over Scientific Plots](https://arxiv.org/abs/1909.00997)                                                                                                                |                                                    With 28.9 million question-answer pairs over 224,377 plots on data from realworld sources and questions based on crowd-sourced question templates.                                                     |
-| [**ChartInstructionData**](https://github.com/zengxingchen/ChartQA-MLLM)        |                                                                                                               [Advancing Multimodal Large Language Models in Chart Question Answering with Visualization-Referenced Instruction Tuning](https://arxiv.org/pdf/2407.20174v1)                                                                                                                |                                                    A dataset of 467K, which includes 108K table-chart pairs and 359K chart-QA pairs.                                                     |
-| [**MMTab**](https://github.com/SpursGoZmy/Table-LLaVA)        |                                                                                                               [Multimodal Table Understanding](https://arxiv.org/pdf/2406.08100)                                                                                                                |                                                    Dataset for multimodal table understanding problem, based on 14 publicly available table datasets of 8 domains.                                                     |
+| [**ChartInstructionData**](https://github.com/zengxingchen/ChartQA-MLLM)                   |                                                                      [Advancing Multimodal Large Language Models in Chart Question Answering with Visualization-Referenced Instruction Tuning](https://arxiv.org/pdf/2407.20174v1)                                                                       |                                                                                     A dataset of 467K, which includes 108K table-chart pairs and 359K chart-QA pairs.                                                                                     |
+| [**MMTab**](https://github.com/SpursGoZmy/Table-LLaVA)                                     |                                                                                                                    [Multimodal Table Understanding](https://arxiv.org/pdf/2406.08100)                                                                                                                    |                                                                      Dataset for multimodal table understanding problem, based on 14 publicly available table datasets of 8 domains.                                                                      |
+| [**Multimodal Self-Instruct**](https://multi-modal-self-instruct.github.io/)               |                                                                               [Multimodal Self-Instruct: Synthetic Abstract Image and Visual Reasoning Instruction Using Language Model](https://arxiv.org/pdf/2407.07053)                                                                               |                                                 Instruction dataset for eight visual scenarios: charts, tables, simulated maps, dashboards, flowcharts, relation graphs, floor plans, and visual puzzles.                                                 |
 
 ## MLLM Math/STEM Benchmark
 
