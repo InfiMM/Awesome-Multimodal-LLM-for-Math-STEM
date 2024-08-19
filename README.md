@@ -63,6 +63,10 @@
 
    _Xingchen Zeng, Haichuan Lin, Yilin Ye, Wei Zeng._ [[Paper](https://arxiv.org/pdf/2407.20174v1)], [[Code](https://github.com/zengxingchen/ChartQA-MLLM)], 2024.7
 
+1. **Math-PUMA: Progressive Upward Multimodal Alignment to Enhance Mathematical Reasoning.** `Preprint`
+
+   _Wenwen Zhuang, Xin Huang, Xiantao Zhang, Jin Zeng._ [[Paper](https://arxiv.org/pdf/2408.08640v1)], 2024.8
+
 ## MLLM Math/STEM Dataset
 
 | Name                                                                                       |                                                                                                                                                  Paper                                                                                                                                                   |                                                                                                                           Notes                                                                                                                           |
@@ -149,6 +153,7 @@
 | [**SceMQA**](https://scemqa.github.io/)                                             |                          [SceMQA: A Scientific College Entrance Level Multimodal Question Answering Benchmark](https://arxiv.org/abs/2402.05138)                          |                               A benchmark for scientific multimodal question answering at the college entrance leve.                               |
 | [**TheoremQA**](https://scemqa.github.io/)                                          |                                        [TheoremQA: A Theorem-driven Question Answering dataset](https://arxiv.org/abs/2305.12524)                                         |           Curated by domain experts containing 800 high-quality questions covering 350 theorems from Math, Physics, EE&CS, and Finance.            |
 | [**NPHardEval4V**](https://github.com/lizhouf/NPHardEval4V)                                          |                                        [NPHardEval4V: A Dynamic Reasoning Benchmark of Multimodal Large Language Models](https://arxiv.org/abs/2403.01777)                                         |           Built by converting textual description of questions from NPHardEval to image representations.            |
+| [**MathScape**](https://github.com/PKU-Baichuan-MLSystemLab/MathScape)                                          |                                        [MathScape: Evaluating MLLMs in multimodal Math Scenarios through a Hierarchical Benchmark](https://arxiv.org/abs/2408.07543v2)                                         |            designed to evaluate photo-based math problem scenarios, assessing the theoretical understanding and application ability of MLLMs through a categorical hierarchical approach.            |
 
 ## Contributors
 
