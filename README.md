@@ -67,6 +67,10 @@
 
    _Wenwen Zhuang, Xin Huang, Xiantao Zhang, Jin Zeng._ [[Paper](https://arxiv.org/pdf/2408.08640v1)], 2024.8
 
+1. **Diagram Formalization Enhanced Multi-Modal Geometry Problem Solver.** `Preprint`
+
+   _Zeren Zhang, Jo-Ku Cheng, Jingyang Deng, Lu Tian, Jinwen Ma, Ziran Qin, Xiaokai Zhang, Na Zhu, and Tuo Leng._ [[Paper](https://arxiv.org/pdf/2409.04214)], 2024.9
+
 ## MLLM Math/STEM Dataset
 
 | Name                                                                                       |                                                                                                                                                  Paper                                                                                                                                                   |                                                                                                                    Notes                                                                                                                    |
