@@ -71,6 +71,10 @@
 
    _Zeren Zhang, Jo-Ku Cheng, Jingyang Deng, Lu Tian, Jinwen Ma, Ziran Qin, Xiaokai Zhang, Na Zhu, and Tuo Leng._ [[Paper](https://arxiv.org/pdf/2409.04214)], 2024.9
 
+1. **Transformers Utilization in Chart Understanding: A Review of Recent Advances & Future Trends.** `Preprint`
+
+   _Mirna Al-Shetairy, Hanan Hindy, Dina Khattab, Mostafa M. Aref._ [[Paper](https://arxiv.org/pdf/2410.13883)], 2024.10
+
 ## MLLM Math/STEM Dataset
 
 | Name                                                                                       |                                                                                                                                                  Paper                                                                                                                                                   |                                                                                                                    Notes                                                                                                                    |
