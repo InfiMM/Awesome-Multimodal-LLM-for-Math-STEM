@@ -75,6 +75,14 @@
 
    _Mirna Al-Shetairy, Hanan Hindy, Dina Khattab, Mostafa M. Aref._ [[Paper](https://arxiv.org/pdf/2410.13883)], 2024.10
 
+1. **IMPROVE VISION LANGUAGE MODEL CHAIN-OFTHOUGHT REASONING.** `Preprint`
+
+   _Ruohong Zhang, Bowen Zhang, Yanghao Li, Haotian Zhang, Zhiqing Sun, Zhe Gan, Yinfei Yang, Ruoming Pang, Yiming Yang._ [[Paper](https://arxiv.org/pdf/2410.16198)], 2024.10
+
+1. **R-COT : REVERSE CHAIN-OF-THOUGHT PROBLEM GENERATION FOR GEOMETRIC REASONING IN LARGE MULTIMODAL MODELS.** `Preprint`
+
+   _Linger Deng, Yuliang Liu, Bohan Li, Dongliang Luo, Liang Wu, Chengquan Zhang, Pengyuan Lyu, Ziyang Zhang, Gang Zhang, Errui Ding, Yingying Zhu, Xiang Bai._ [[Paper](https://arxiv.org/pdf/2410.17885)], 2024.10
+
 ## MLLM Math/STEM Dataset
 
 | Name                                                                                       |                                                                                                                                                  Paper                                                                                                                                                   |                                                                                                                    Notes                                                                                                                    |
