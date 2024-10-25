@@ -83,6 +83,10 @@
 
    _Linger Deng, Yuliang Liu, Bohan Li, Dongliang Luo, Liang Wu, Chengquan Zhang, Pengyuan Lyu, Ziyang Zhang, Gang Zhang, Errui Ding, Yingying Zhu, Xiang Bai._ [[Paper](https://arxiv.org/pdf/2410.17885)], 2024.10
 
+1. **GeoCoder: Solving Geometry Problems by Generating Modular Code through Vision-Language Models.** `Preprint`
+
+   _Aditya Sharma, Aman Dalmia, Mehran Kazemi, Amal Zouaq, Christopher J. Pal._ [[Paper](https://arxiv.org/pdf/2410.13510)], 2024.10
+
 ## MLLM Math/STEM Dataset
 
 | Name                                                                                       |                                                                                                                                                  Paper                                                                                                                                                   |                                                                                                                    Notes                                                                                                                    |
