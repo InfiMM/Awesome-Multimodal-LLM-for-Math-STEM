@@ -87,6 +87,10 @@
 
    _Aditya Sharma, Aman Dalmia, Mehran Kazemi, Amal Zouaq, Christopher J. Pal._ [[Paper](https://arxiv.org/pdf/2410.13510)], 2024.10
 
+1. **VISTA: Visual Integrated System for Tailored Automation in Math Problem Generation Using LLM.** `NeurIPS 2024 Workshop`
+
+   _Jeongwoo Lee, Kwangsuk Park, Jihyeon Park._ [[Paper](https://arxiv.org/pdf/2411.05423v1)], 2024.11
+
 ## MLLM Math/STEM Dataset
 
 | Name                                                                                       |                                                                                                                                                  Paper                                                                                                                                                   |                                                                                                                    Notes                                                                                                                    |
