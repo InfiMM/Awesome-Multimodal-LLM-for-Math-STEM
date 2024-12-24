@@ -91,6 +91,10 @@
 
    _Jeongwoo Lee, Kwangsuk Park, Jihyeon Park._ [[Paper](https://arxiv.org/pdf/2411.05423v1)], 2024.11
 
+1. **DIVING INTO SELF-EVOLVING TRAINING FOR MULTIMODAL REASONING.** `Preprint`
+
+   _Wei Liu, Junlong Li, Xiwen Zhang, Fan Zhou, Yu Cheng, Junxian He._ [[Paper](https://arxiv.org/pdf/2412.17451)], 2024.12
+
 ## MLLM Math/STEM Dataset
 
 | Name                                                                                       |                                                                                                                                                  Paper                                                                                                                                                   |                                                                                                                    Notes                                                                                                                    |
