@@ -95,6 +95,10 @@
 
    _Wei Liu, Junlong Li, Xiwen Zhang, Fan Zhou, Yu Cheng, Junxian He._ [[Paper](https://arxiv.org/pdf/2412.17451)], 2024.12
 
+1. **Slow Perception: Let’s Perceive Geometric Figures Step-by-step.** `Preprint`
+
+   _Haoran Wei, Youyang Yin, Yumeng Li, Jia Wang, Liang Zhao, Jianjian Sun, Zheng Ge, Xiangyu Zhang._ [[Paper](https://arxiv.org/pdf/2412.20631)], 2024.12
+
 ## MLLM Math/STEM Dataset
 
 | Name                                                                                       |                                                                                                                                                  Paper                                                                                                                                                   |                                                                                                                    Notes                                                                                                                    |
