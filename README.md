@@ -99,6 +99,10 @@
 
    _Haoran Wei, Youyang Yin, Yumeng Li, Jia Wang, Liang Zhao, Jianjian Sun, Zheng Ge, Xiangyu Zhang._ [[Paper](https://arxiv.org/pdf/2412.20631)], 2024.12
 
+1. **Virgo: A Preliminary Exploration on Reproducing o1-like MLLM.** `Preprint`
+
+   _Yifan Du, Zikang Liu1, Yifan Li, Wayne Xin Zhao, Yuqi Huo, Bingning Wang, Weipeng ChenZheng Liu, Zhongyuan Wang, Ji-Rong Wen._ [[Paper](https://arxiv.org/pdf/2501.01904)], 2025.1
+
 ## MLLM Math/STEM Dataset
 
 | Name                                                                                       |                                                                                                                                                  Paper                                                                                                                                                   |                                                                                                                    Notes                                                                                                                    |
