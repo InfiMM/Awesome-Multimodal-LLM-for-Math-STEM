@@ -103,6 +103,10 @@
 
    _Yifan Du, Zikang Liu1, Yifan Li, Wayne Xin Zhao, Yuqi Huo, Bingning Wang, Weipeng ChenZheng Liu, Zhongyuan Wang, Ji-Rong Wen._ [[Paper](https://arxiv.org/pdf/2501.01904)], 2025.1
 
+1. **URSA: Understanding and Verifying Chain-of-thought Reasoning in Multimodal Mathematics.** `Preprint`
+
+   _Ruilin Luo, Zhuofan Zheng, Yifan Wang, Yiyao Yu, Xinzhe Ni, Zicheng Lin, Jin Zeng, Yujiu Yang._ [[Paper](https://arxiv.org/pdf/2501.04686)], 2025.1
+
 ## MLLM Math/STEM Dataset
 
 | Name                                                                                       |                                                                                                                                                  Paper                                                                                                                                                   |                                                                                                                    Notes                                                                                                                    |
