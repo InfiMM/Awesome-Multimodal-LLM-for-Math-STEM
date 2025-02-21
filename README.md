@@ -107,6 +107,10 @@
 
    _Ruilin Luo, Zhuofan Zheng, Yifan Wang, Yiyao Yu, Xinzhe Ni, Zicheng Lin, Jin Zeng, Yujiu Yang._ [[Paper](https://arxiv.org/pdf/2501.04686)], 2025.1
 
+1. **Scaling Text-Rich Image Understanding via Code-Guided Synthetic Multimodal Data Generation.** `Preprint`
+
+   _Yue Yang, Ajay Patel, Matt Deitke, Tanmay Gupta, Luca Weihs, Andrew Head, Mark Yatskar, Chris Callison-Burch, Ranjay Krishna, Aniruddha Kembhavi, Christopher Clark._ [[Paper](https://arxiv.org/pdf/2502.14846)], 2025.2
+
 ## MLLM Math/STEM Dataset
 
 | Name                                                                                       |                                                                                                                                                  Paper                                                                                                                                                   |                                                                                                                    Notes                                                                                                                    |
