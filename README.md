@@ -111,6 +111,10 @@
 
    _Yue Yang, Ajay Patel, Matt Deitke, Tanmay Gupta, Luca Weihs, Andrew Head, Mark Yatskar, Chris Callison-Burch, Ranjay Krishna, Aniruddha Kembhavi, Christopher Clark._ [[Paper](https://arxiv.org/pdf/2502.14846)], 2025.2
 
+1. **MathCoder-VL: Bridging Vision and Code for Enhanced Multimodal Mathematical Reasoning.** `Preprint`
+
+   _Ke Wang, Junting Pan, Linda Wei, Aojun Zhou, Weikang Shi, Zimu Lu, Han Xiao, Yunqiao Yang, Houxing Ren, Mingjie Zhan, Hongsheng Li._ [[Paper](https://arxiv.org/pdf/2505.10557)], 2025.5
+
 ## MLLM Math/STEM Dataset
 
 | Name                                                                                       |                                                                                                                                                  Paper                                                                                                                                                   |                                                                                                                    Notes                                                                                                                    |
