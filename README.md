@@ -115,6 +115,10 @@
 
    _Ke Wang, Junting Pan, Linda Wei, Aojun Zhou, Weikang Shi, Zimu Lu, Han Xiao, Yunqiao Yang, Houxing Ren, Mingjie Zhan, Hongsheng Li._ [[Paper](https://arxiv.org/pdf/2505.10557)], 2025.5
 
+1. **MINT-CoT: Enabling Interleaved Visual Tokens in Mathematical Chain-of-Thought Reasoning.** `Preprint`
+
+   _Xinyan Chen, Renrui Zhang, Dongzhi Jiang, Aojun Zhou， Shilin Yan, Weifeng Lin, Hongsheng Li._ [[Paper](https://arxiv.org/pdf/2506.05331)], 2025.6
+
 ## MLLM Math/STEM Dataset
 
 | Name                                                                                       |                                                                                                                                                  Paper                                                                                                                                                   |                                                                                                                    Notes                                                                                                                    |
@@ -236,6 +240,7 @@
 | [**ChartMuseum**](https://chartmuseum-leaderboard.github.io/)                                     |                            [ChartMuseum: Testing Visual Reasoning Capabilities of Large Vision-Language Models](https://arxiv.org/pdf/2505.13444)                             |                                                       Chart Question Answering (QA) benchmark containing 1,162 expert-annotated questions spanning multiple reasoning types, curated from realworld charts across 184 sources                                                |
 | [**FullFront**](https://github.com/Mikivishy/FullFront)                                     |                            [FullFront: Benchmarking MLLMs Across the Full Front-End Engineering Workflow](https://arxiv.org/pdf/2505.17399)                             |                                                        Assesses three fundamental tasks that map directly to the front-end engineering pipeline: Webpage Design, Webpage Perception QA, and Webpage Code Generation                                                |
 | [**MMMR**](https://mmmr-benchmark.github.io/)                                     |                            [MMMR: Benchmarking Massive Multi-Modal Reasoning Tasks](https://arxiv.org/pdf/2505.16459)                             |                                                        1,083 questions spanning six diverse reasoning types with symbolic depth and multi-hop demands                                                |
+| [**VideoMathQA**](https://mbzuai-oryx.github.io/VideoMathQA/)                                     |                            [VideoMathQA: Benchmarking Mathematical Reasoning via Multimodal Understanding in Videos](https://arxiv.org/pdf/2506.05349)                             |                                                         Spans 10 diverse mathematical domains, covering videos ranging from 10 seconds to over 1 hour.                                                |
 
 
 
