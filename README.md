@@ -119,6 +119,11 @@
 
    _Xinyan Chen, Renrui Zhang, Dongzhi Jiang, Aojun Zhou， Shilin Yan, Weifeng Lin, Hongsheng Li._ [[Paper](https://arxiv.org/pdf/2506.05331)], 2025.6
 
+1. **Improved Iterative Refinement for Chart-to-Code Generation via Structured Instruction.** `Preprint`
+
+   _Chengzhi Xu, Yuyang Wang, Lai Wei, Lichao Sun, Weiran Huang._ [[Paper](https://arxiv.org/pdf/2506.14837)], 2025.6
+
+
 ## MLLM Math/STEM Dataset
 
 | Name                                                                                       |                                                                                                                                                  Paper                                                                                                                                                   |                                                                                                                    Notes                                                                                                                    |
