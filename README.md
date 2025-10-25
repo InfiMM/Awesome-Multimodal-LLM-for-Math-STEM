@@ -123,6 +123,10 @@
 
    _Chengzhi Xu, Yuyang Wang, Lai Wei, Lichao Sun, Weiran Huang._ [[Paper](https://arxiv.org/pdf/2506.14837)], 2025.6
 
+1. **MathCanvas: Intrinsic Visual Chain-of-Thought for Multimodal Mathematical Reasoning.** `Preprint`
+
+   _Weikang Shi, etc._ [[Paper](https://arxiv.org/pdf/2510.14958)], 2025.10
+
 
 ## MLLM Math/STEM Dataset
 
@@ -252,6 +256,8 @@
 | [**SCIVER**](https://github.com/QDRhhhh/SciVer)                                     |                            [SCIVER: Evaluating Foundation Models for Multimodal Scientific Claim Verification](https://arxiv.org/pdf/2506.15569)                             |                                                         Consists of 3,000 expert-annotated examples over 1,113 scientific papers, covering four subsets, each representing a common reasoning type in multimodal scientific claim verification.                                                |
 | [**MATHREAL**](https://github.com/junfeng0288/MathReal)                                     |                            [MATHREAL: We Keep It Real! A Real Scene Benchmark for Evaluating Math Reasoning in Multimodal Large Language Models](https://arxiv.org/pdf/2508.06009)                             |                                                         Comprising 2,000 mathematical questions with images captured by handheld mobile devices in authentic scenarios.                                                |
 | [**WE-MATH 2.0**](https://we-math2.github.io/)                                     |                            [WE-MATH 2.0: A Versatile MathBook System for Incentivizing Visual Mathematical Reasoning](https://arxiv.org/pdf/2508.10433)                             |                                                         A comprehensive benchmark covering all 491 knowledge points with diverse reasoning step distributions.                                                |
+| [**Uni-MMMU**](https://vchitect.github.io/Uni-MMMU-Project)                                     |                            [Uni-MMMU: A Massive Multi-discipline Multimodal Unified Benchmark](https://arxiv.org/pdf/2510.13759)                             |                                                          A benchmark of
+eight bidirectionally coupled tasks that enforce Gen–Und logical dependency.                                                |
 
 
 ## Contributors
