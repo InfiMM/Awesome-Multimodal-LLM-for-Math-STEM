@@ -127,6 +127,10 @@
 
    _Weikang Shi, etc._ [[Paper](https://arxiv.org/pdf/2510.14958)], 2025.10
 
+1. **MathSE: Improving Multimodal Mathematical Reasoning via Self-Evolving Iterative Reflection and Reward-Guided Fine-Tuning.** `Preprint`
+
+   _Jinhao Chen, Zhen Yang, Jianxin Shi, Tianyu Wo, Jie Tang._ [[Paper](https://arxiv.org/pdf/2511.06805)], 2025.11
+
 
 ## MLLM Math/STEM Dataset
 
