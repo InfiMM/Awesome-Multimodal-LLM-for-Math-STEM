@@ -131,6 +131,86 @@
 
    _Jinhao Chen, Zhen Yang, Jianxin Shi, Tianyu Wo, Jie Tang._ [[Paper](https://arxiv.org/pdf/2511.06805)], 2025.11
 
+1. **Multimodal OCR: Parse Anything from Documents** `Preprint`
+
+   _Handong Zheng, Yumeng Li, Kaile Zhang, Liang Xin, Guangwei Zhao, Hao Liu, et al._ [[Paper](https://arxiv.org/abs/2603.13032)], 2026.3
+
+1. **Molecular Identifier Visual Prompt and Verifiable Reinforcement Learning for Chemical Reaction Diagram Parsing** `Preprint`
+
+   _Jiahe Song, Chuang Wang, Yinfan Wang, Hao Zheng, Rui Nie, Bowen Jiang, et al._ [[Paper](https://arxiv.org/abs/2603.15011)], 2026.3
+
+1. **TerraScope: Pixel-Grounded Visual Reasoning for Earth Observation** `Preprint`
+
+   _Yan Shu, Bin Ren, Zhitong Xiong, Xiao Xiang Zhu, Begum Demir, Nicu Sebe, Paolo Rota._ [[Paper](https://arxiv.org/abs/2603.19039)], 2026.3
+
+1. **VFIG: Vectorizing Complex Figures in SVG with Vision-Language Models** `Preprint`
+
+   _Qijia He, Xunmei Liu, Hammaad Memon, Ziang Li, Zixian Ma, Jaemin Cho, et al._ [[Paper](https://arxiv.org/abs/2603.24575)], 2026.3
+
+1. **Intern-S1-Pro: Scientific Multimodal Foundation Model at Trillion Scale** `Preprint`
+
+   _Yicheng Zou, Dongsheng Zhu, Lin Zhu, Tong Zhu, Yunhua Zhou, Peiheng Zhou, et al._ [[Paper](https://arxiv.org/abs/2603.25040)], 2026.3
+
+1. **GIFT: Bootstrapping Image-to-CAD Program Synthesis via Geometric Feedback** `Preprint`
+
+   _Giorgio Giannone, Anna Clare Doris, Amin Heyrani Nobari, Kai Xu, Akash Srivastava, Faez Ahmed._ [[Paper](https://arxiv.org/abs/2603.27448)], 2026.3
+
+1. **SpatialStack: Layered Geometry-Language Fusion for 3D VLM Spatial Reasoning** `Preprint`
+
+   _Jian Zhang, Shijie Zhou, Bangya Liu, Achuta Kadambi, Zhiwen Fan._ [[Paper](https://arxiv.org/abs/2603.27437)], 2026.3
+
+1. **When Choices Become Priors: Contrastive Decoding for Scientific Figure Multiple-Choice QA** `Preprint`
+
+   _Taeyun Roh, Eun-yeong Jo, Wonjune Jang, Jaewoo Kang._ [[Paper](https://arxiv.org/abs/2603.28026)], 2026.3
+
+1. **MM-ReCoder: Advancing Chart-to-Code Generation with Reinforcement Learning and Self-Correction** `Preprint`
+
+   _Zitian Tang, Xu Zhang, Jianbo Yuan, Yang Zou, Varad Gunjal, Songyao Jiang, Davide Modolo._ [[Paper](https://arxiv.org/abs/2604.01600)], 2026.4
+
+1. **ChemVLR: Prioritizing Reasoning in Perception for Chemical Vision-Language Understanding** `Preprint`
+
+   _Xuanle Zhao, Xinyuan Cai, Xiang Cheng, Xiuyi Chen, Bo Xu._ [[Paper](https://arxiv.org/abs/2604.06685)], 2026.4
+
+1. **DocSeeker: Structured Visual Reasoning with Evidence Grounding for Long Document Understanding** `Preprint`
+
+   _Hao Yan, Yuliang Liu, Xingchen Liu, Yuyi Zhang, Minghui Liao, Jihao Wu, Wei Chen, Xiang Bai._ [[Paper](https://arxiv.org/abs/2604.12812)], 2026.4
+
+1. **V-tableR1: Process-Supervised Multimodal Table Reasoning with Critic-Guided Policy Optimization** `Preprint`
+
+   _Yubo Jiang, Yitong An, Xin Yang, Abudukelimu Wuerkaixi, Xuxin Cheng, Fengying Xie, et al._ [[Paper](https://arxiv.org/abs/2604.20755)], 2026.4
+
+1. **S1-VL: Scientific Multimodal Reasoning Model with Thinking-with-Images** `Preprint`
+
+   _Qingxiao Li, Lifeng Xu, QingLi Wang, Yudong Bai, Mingwei Ou, Shu Hu, Nan Xu._ [[Paper](https://arxiv.org/abs/2604.21409)], 2026.4
+
+1. **DIAGRAMS: A Review Framework for Reasoning-Level Attribution in Diagram QA** `Preprint`
+
+   _Anirudh Iyengar Kaniyar Narayana Iyengar, Tampu Ravi Kumar, Manan Suri, Raviteja Bommireddy, Dinesh Manocha, Puneet Mathur, Vivek Gupta._ [[Paper](https://arxiv.org/abs/2605.00905)], 2026.4
+
+1. **FT-RAG: A Fine-grained Retrieval-Augmented Generation Framework for Complex Table Reasoning** `Preprint`
+
+   _Zebin Guo, Weidong Geng, Ruichen Mao._ [[Paper](https://arxiv.org/abs/2605.01495)], 2026.5
+
+1. **Chart-FR1: Visual Focus-Driven Fine-Grained Reasoning on Dense Charts** `Preprint`
+
+   _Hongkun Pan, Yuwei Wu, Wanyi Hong, Shenghui Hu, Qitong Yan, Yi Yang, et al._ [[Paper](https://arxiv.org/abs/2605.01882)], 2026.5
+
+1. **Hierarchical Visual Agent: Managing Contexts in Joint Image-Text Space for Advanced Chart Reasoning** `Preprint`
+
+   _Qihua Dong, Ruozhen He, Junwen Chen, Yizhou Wang, Xu Ma, Songyao Jiang, Yun Fu._ [[Paper](https://arxiv.org/abs/2605.04304)], 2026.5
+
+1. **ChartZero: Synthetic Priors Enable Zero Shot Chart Data Extraction** `Preprint`
+
+   _Md Touhidul Islam, Yasir Mahmud, Sujan Kumar Saha, Mark Tehranipoor, Farimah Farahmandi._ [[Paper](https://arxiv.org/abs/2605.05820)], 2026.5
+
+1. **GeoVista: Visually Grounded Active Perception for Ultra-High-Resolution Remote Sensing Understanding** `Preprint`
+
+   _Jiashun Zhu, Ronghao Fu, Jiasen Hu, Nachuan Xing, Xu Na, Xiao Yang, et al._ [[Paper](https://arxiv.org/abs/2605.14475)], 2026.5
+
+1. **From Table to Cell: Attention for Better Reasoning with TABALIGN** `Preprint`
+
+   _Tung Sum Thomas Kwok, Zeyong Zhang, Xinyu Wang, Chunhe Wang, Xiaofeng Lin, Hanwei Wu, et al._ [[Paper](https://arxiv.org/abs/2605.14465)], 2026.5
+
 
 ## MLLM Math/STEM Dataset
 
@@ -176,6 +256,13 @@
 | [**MM-PRM**](https://github.com/ModalMinds/MM-PRM)                              |                                                                                    [MM-PRM: Enhancing Multimodal Mathematical Reasoning with Scalable Step-Level Supervision](https://arxiv.org/pdf/2505.13427)                                                                                     |                                                                     A curated dataset of 10,000 multimodal math problems with verifiable answers, which serves as seed data. Leveraging a Monte Carlo Tree Search (MCTS)-based pipeline, generate over 700k step-level annotations without human labeling                                                                   |
 | [**BMMR**](https://bmmr.pages.dev/)                              |                                                                                    [BMMR: A Large-Scale Bilingual Multimodal Multi-Discipline Reasoning Dataset](https://arxiv.org/pdf/2507.03483)                                                                                     |                                                                      a large-scale bilingual, multimodal, multidisciplinary reasoning dataset for the community to develop and evaluate large multimodal models                                                                   |
 | [**Zebra-CoT**](https://huggingface.co/datasets/multimodal-reasoning-lab/Zebra-CoT)                              |                                                                                    [Zebra-CoT: A Dataset for Interleaved Vision-Language Reasoning](https://arxiv.org/pdf/2507.16746)                                                                                     |                                                                      a diverse large-scale dataset with 182,384 samples, containing logically coherent interleaved text-image reasoning traces                                                                   |
+| [**SldprtNet**](https://arxiv.org/abs/2603.13098) | [SldprtNet: A Large-Scale Multimodal Dataset for CAD Generation in Language-Driven 3D Design](https://arxiv.org/abs/2603.13098) | A large-scale multimodal CAD dataset with over 242K industrial parts in STEP and SLDPRT formats for language-driven 3D design and CAD generation. |
+| [**CharTide-2M**](https://arxiv.org/abs/2604.22192) | [CharTide: Data-Centric Chart-to-Code Generation via Tri-Perspective Tuning and Inquiry-Driven Evolution](https://arxiv.org/abs/2604.22192) | A 2M-sample chart-to-code training and alignment dataset built with tri-perspective tuning and inquiry-driven verification. |
+| [**Chart2NCode**](https://github.com/Zhihan72/CharLuMA) | [Aligned Multi-View Scripts for Universal Chart-to-Code Generation](https://arxiv.org/abs/2604.24559) | 176K chart images paired with aligned executable scripts across multiple plotting languages for universal chart-to-code generation. |
+| [**Zero-to-CAD**](https://huggingface.co/collections/ADSKAILab/zero-to-cad) | [Zero-to-CAD: Agentic Synthesis of Interpretable CAD Programs at Million-Scale Without Real Data](https://arxiv.org/abs/2604.24479) | Around one million synthetic executable CAD construction sequences plus a curated 100K high-quality subset for CAD program generation. |
+| [**CADFS**](https://voyleg.github.io/cadfs/) | [CADFS: A Big CAD Program Dataset and Framework for Computer-Aided Design with Large Language Models](https://arxiv.org/abs/2605.01925) | 450K real-world CAD models represented with FeatureScript and spanning 15 modeling operations for richer CAD generation. |
+| [**DocAtlas**](https://github.com/ahmedheakl/docatlas_instruct) | [DocAtlas: Multilingual Document Understanding Across 80+ Languages](https://arxiv.org/abs/2605.12623) | High-fidelity OCR datasets and benchmarks covering 82 languages and 9 document understanding evaluation tasks. |
+| [**Sentinel2Cap**](https://arxiv.org/abs/2605.03189) | [Sentinel2Cap: A Human-Annotated Benchmark Dataset for Multimodal Remote Sensing Image Captioning](https://arxiv.org/abs/2605.03189) | A human-annotated multimodal remote sensing captioning dataset pairing Sentinel-1 SAR and Sentinel-2 multi-spectral image patches with validated captions. |
 
 ## MLLM Math/STEM Benchmark
 
@@ -262,6 +349,30 @@
 | [**WE-MATH 2.0**](https://we-math2.github.io/)                                     |                            [WE-MATH 2.0: A Versatile MathBook System for Incentivizing Visual Mathematical Reasoning](https://arxiv.org/pdf/2508.10433)                             |                                                         A comprehensive benchmark covering all 491 knowledge points with diverse reasoning step distributions.                                                |
 | [**Uni-MMMU**](https://vchitect.github.io/Uni-MMMU-Project)                                     |                            [Uni-MMMU: A Massive Multi-discipline Multimodal Unified Benchmark](https://arxiv.org/pdf/2510.13759)                             |                                                          A benchmark of eight bidirectionally coupled tasks that enforce Gen–Und logical dependency.                                                |
 | [**GGBench**](https://opendatalab-raiser.github.io/GGBench)                                     |                            [GGBench: A Geometric Generative Reasoning Benchmark for Unified Multimodal Models](https://arxiv.org/pdf/2511.11134)                             |                                                          A benchmark designed specifically to evaluate geometric generative reasoning.                                                |
+| [**ScratchMath**](https://arxiv.org/abs/2603.24961) | [Can MLLMs Read Students' Minds? Unpacking Multimodal Error Analysis in Handwritten Math](https://arxiv.org/abs/2603.24961) | 1,720 authentic handwritten math scratchwork samples for error cause explanation and classification across seven error types. |
+| [**GeoAux-Bench**](https://arxiv.org/abs/2603.18662) | [Thinking with Constructions: A Benchmark and Policy Optimization for Visual-Text Interleaved Geometric Reasoning](https://arxiv.org/abs/2603.18662) | A benchmark for visual-text interleaved geometric reasoning where models must decide when and how to construct visual aids. |
+| [**MultihopSpatial**](https://youngwanlee.github.io/multihopspatial) | [MultihopSpatial: Multi-hop Compositional Spatial Reasoning Benchmark for Vision-Language Model](https://arxiv.org/abs/2603.18892) | Evaluates multi-hop compositional spatial reasoning and precise visual grounding for VLM and VLA-style agents. |
+| [**AEC-Bench**](https://github.com/nomic-ai/aec-bench) | [AEC-Bench: A Multimodal Benchmark for Agentic Systems in Architecture, Engineering, and Construction](https://arxiv.org/abs/2603.29199) | Real-world AEC tasks requiring drawing understanding, cross-sheet reasoning, and project-level coordination. |
+| [**GeoMMBench**](https://arxiv.org/abs/2604.08896) | [GeoMMBench and GeoMMAgent: Toward Expert-Level Multimodal Intelligence in Geoscience and Remote Sensing](https://arxiv.org/abs/2604.08896) | 1,053 expert-level image-based multiple-choice questions spanning geoscience and remote sensing disciplines. |
+| [**HM-Bench**](https://github.com/HuoRiLi-Yu/HM-Bench) | [HM-Bench: A Comprehensive Benchmark for Multimodal Large Language Models in Hyperspectral Remote Sensing](https://arxiv.org/abs/2604.08884) | A hyperspectral remote sensing benchmark for testing spectral-spatial perception and reasoning in MLLMs. |
+| [**PaperScope**](https://github.com/CherYou/PaperScope) | [PaperScope: A Multi-Modal Multi-Document Benchmark for Agentic Deep Research Across Massive Scientific Papers](https://arxiv.org/abs/2604.11307) | Evaluates agentic deep research over many scientific papers with evidence from text, tables, and figures. |
+| [**MMCoIR**](https://arxiv.org/abs/2604.15663) | [CodeMMR: Bridging Natural Language, Code, and Image for Unified Retrieval](https://arxiv.org/abs/2604.15663) | A multimodal code information retrieval benchmark across five visual domains, eight programming languages, and eleven libraries. |
+| [**ReactBench**](https://arxiv.org/abs/2604.15994) | [ReactBench: A Benchmark for Topological Reasoning in MLLMs on Chemical Reaction Diagrams](https://arxiv.org/abs/2604.15994) | Probes topological reasoning over branching, converging, and cyclic chemical reaction diagrams. |
+| [**ArXivDoc**](https://arxiv.org/abs/2604.18508) | [Document-as-Image Representations Fall Short for Scientific Retrieval](https://arxiv.org/abs/2604.18508) | A scientific document retrieval benchmark built from LaTeX sources to test text, tables, figures, and equations. |
+| [**MathNet**](https://mathnet.mit.edu) | [MathNet: A Global Multimodal Benchmark for Mathematical Reasoning and Retrieval](https://arxiv.org/abs/2604.18584) | 30K+ Olympiad-level math problems from 47 countries, with a retrieval benchmark for mathematical problem search. |
+| [**STEP-STEM**](https://github.com/lll-hhh/STEPSTEM) | [Unveiling Fine-Grained Visual Traces: Evaluating Multimodal Interleaved Reasoning Chains in Multimodal STEM Tasks](https://arxiv.org/abs/2604.19697) | Evaluates fine-grained visual traces in multimodal interleaved reasoning chains for STEM tasks. |
+| [**OMIBench**](https://huggingface.co/datasets/LightChen2333/OMIBench) | [OMIBench: Benchmarking Olympiad-Level Multi-Image Reasoning in Large Vision-Language Model](https://arxiv.org/abs/2604.20806) | An Olympiad-level benchmark where evidence is distributed across multiple images. |
+| [**AstroVLBench**](https://arxiv.org/abs/2604.24589) | [A Systematic Evaluation of Vision-Language Models for Observational Astronomical Reasoning Tasks](https://arxiv.org/abs/2604.24589) | 4,100+ expert-verified instances across optical imaging, radio interferometry, photometry, time-domain signals, and spectroscopy. |
+| [**SpecVQA**](https://huggingface.co/datasets/UniParser/SpecVQA) | [SpecVQA: A Benchmark for Spectral Understanding and Visual Question Answering in Scientific Images](https://arxiv.org/abs/2604.28039) | A scientific spectral image VQA benchmark covering seven representative spectrum types with expert annotations. |
+| [**TopBench**](https://arxiv.org/abs/2604.28076) | [TopBench: A Benchmark for Implicit Prediction and Reasoning over Tabular Question Answering](https://arxiv.org/abs/2604.28076) | Tests implicit prediction and latent-intent reasoning over table question answering rather than simple retrieval. |
+| [**Text-to-CAD Retrieval**](https://arxiv.org/abs/2605.05572) | [Text-to-CAD Retrieval: A Strong Baseline](https://arxiv.org/abs/2605.05572) | Establishes a cross-modal retrieval benchmark for finding semantically relevant CAD models from natural-language queries. |
+| [**AstroAlertBench**](https://arxiv.org/abs/2605.05573) | [AstroAlertBench: Evaluating the Accuracy, Reasoning, and Honesty of Multimodal LLMs in Astronomical Classification](https://arxiv.org/abs/2605.05573) | Evaluates multimodal LLM accuracy, reasoning, and honesty on astronomical alert classification. |
+| [**TableVista**](https://arxiv.org/abs/2605.05955) | [TableVista: Benchmarking Multimodal Table Reasoning under Visual and Structural Complexity](https://arxiv.org/abs/2605.05955) | 3,000 table reasoning problems expanded into diverse visual variants for robustness and structural complexity testing. |
+| [**ChartREG++**](https://arxiv.org/abs/2605.07415) | [ChartREG++: Towards Benchmarking and Improving Chart Referring Expression Grounding under Diverse Referring Clues and Multi-Target Referring](https://arxiv.org/abs/2605.07415) | A chart referring expression grounding benchmark with diverse referring clues and multi-target localization. |
+| [**CADBench**](https://huggingface.co/datasets/DeCoDELab/CADBench) | [CADBench: A Multimodal Benchmark for AI-Assisted CAD Program Generation](https://arxiv.org/abs/2605.10873) | 18,000 evaluation samples across six CAD benchmark families for multimodal CAD program generation. |
+| [**Vision2Code**](https://image2code.github.io/vision2code/) | [Vision2Code: A Multi-Domain Benchmark for Evaluating Image-to-Code Generation](https://arxiv.org/abs/2605.11307) | A reference-code-free benchmark and evaluation framework for image-to-code generation across multiple visual domains. |
+| [**UHR-Micro**](https://github.com/MiliLab/UHR-Micro) | [UHR-Micro: Diagnosing and Mitigating the Resolution Illusion in Earth Observation VLMs](https://arxiv.org/abs/2605.12237) | Diagnoses micro-target perception failures in ultra-high-resolution Earth observation VLMs. |
+| [**CiteVQA**](https://github.com/opendatalab/CiteVQA) | [CiteVQA: Benchmarking Evidence Attribution for Trustworthy Document Intelligence](https://arxiv.org/abs/2605.12882) | Tests whether document VQA models cite and ground the visual or textual evidence supporting their answers. |
 
 
 ## Contributors
