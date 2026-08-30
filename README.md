@@ -211,6 +211,70 @@
 
    _Tung Sum Thomas Kwok, Zeyong Zhang, Xinyu Wang, Chunhe Wang, Xiaofeng Lin, Hanwei Wu, et al._ [[Paper](https://arxiv.org/abs/2605.14465)], 2026.5
 
+1. **MACReD: A Multi-Agent Collaborative Reasoning Framework for Reaction Diagram Parsing** `Preprint`
+
+   _Chuang Tang, Chenhao Lin, Yin Xu, Hao Wang, Jinrui Zhou, Xin Li, et al._ [[Paper](https://arxiv.org/abs/2605.28077)], [[Code](https://github.com/TC9905/MACReD)], 2026.5
+
+1. **VFEAgent: A Multimodal Agent Framework for End-to-End Automated Finite Element Analysis** `Preprint`
+
+   _Jiachen Zhang, Junyi Lao, Chenghao Liu, Siyuan Liu, Shixin Wu, Linsen Zhang, et al._ [[Paper](https://arxiv.org/abs/2605.28978)], 2026.5
+
+1. **BiNSGPS: Geometry Problem Solving via Bidirectional Neuro-Symbolic Interaction** `Preprint`
+
+   _Qi Wang, Peijie Wang, Fei Yin, Cheng-Lin Liu._ [[Paper](https://arxiv.org/abs/2606.04648)], 2026.6
+
+1. **SAFE-Cascade: Cost-Adaptive Vision-Language Routing for Chart Question Answering** `CIKM 2026 Demo`
+
+   _Ayush Dwivedi, Qixin Wang, Ashvi Soni, Ruoteng Wang, Han Li, Animesh Mahapatra, et al._ [[Paper](https://arxiv.org/abs/2606.19646)], 2026.6
+
+1. **VLM-Aware Meta-Optic Front-End Design for Frozen Vision-Language Models** `Preprint`
+
+   _Chanik Kang, Raphael Pestourie, Haejun Chung._ [[Paper](https://arxiv.org/abs/2606.27646)], 2026.6
+
+1. **RiverONE: Generating Knowledge-Intensive VLM by Simulated Quantum Machines** `Preprint`
+
+   _Xindian Ma, Xinyu Long, Yefei Zhang, Yanchen Liu, Xianghao Li, Yufu Wen, et al._ [[Paper](https://arxiv.org/abs/2606.29966)], [[Code](https://github.com/THeWakeSystems/RiverOne)], 2026.6
+
+1. **MolSight: A Graph-Aware Vision-Language Model for Unified Chemical Image Understanding** `Preprint`
+
+   _Wenda Wang, Yihan Tong, Yuwei Hu, Xuchen Pan, Zhewei Wei, Yaliang Li, et al._ [[Paper](https://arxiv.org/abs/2607.01982)], 2026.7
+
+1. **AutoVSR: Automatic Visual-to-Symbolic Reasoning for Symbolic Expression Generation from Circuit Schematic** `Preprint`
+
+   _Zhe Xiao, Longfei Li, Xu He, Haoying Wu, Zixing Zhang, Mingyu Liu._ [[Paper](https://arxiv.org/abs/2607.11338)], [[Code](https://github.com/LongfeiLi1/AutoVSR)], 2026.7
+
+1. **EchoChange: A Diffusion Language Model with Dual Pass Remasking for Factual Remote Sensing Disaster Change Captioning** `Preprint`
+
+   _Dongwei Sun, Bowen Yao, Yujie Zhang, Pei Liu, Jing Yao, Xiangyong Cao._ [[Paper](https://arxiv.org/abs/2608.01856)], [[Project](https://sundongwei.github.io/EchoChange_Project/)], 2026.8
+
+1. **Click2Poly: A VLM for Vector Mapping Buildings and Walls** `Preprint`
+
+   _Nicolas Girard, Jawher Ben Abdallah, Arno Gobbin, Liuyun Duan, Sacha Lepretre._ [[Paper](https://arxiv.org/abs/2608.11424)], 2026.8
+
+1. **Intern-S2-Preview: Scientific Agentic Foundation Model** `Technical Report`
+
+   _Lei Bai, Jiaqi Cao, Chiyu Chen, Guanzhou Chen, Kai Chen, Guangran Cheng, et al._ [[Paper](https://arxiv.org/abs/2608.13505)], [[Model](https://huggingface.co/internlm/Intern-S2-Preview)], 2026.8
+
+1. **OmniScientist: An Omni-Modal Omni-Discipline AI Scientist** `Preprint`
+
+   _Bobo Li, Hao Fei, Tianjie Ju, Mong-Li Lee, Wynne Hsu._ [[Paper](https://arxiv.org/abs/2608.13558)], [[Code](https://github.com/Omni-Scientist/OmniScientist)], 2026.8
+
+1. **SA-GEM: Scale-Adaptive and Geospatial Evidence-Modulated Token Pruning for Efficient Remote Sensing Large Vision-Language Models** `Preprint`
+
+   _Kexin Ma, Jing Xiao, Bowen Xing, Liang Liao, Chia-Wen Lin._ [[Paper](https://arxiv.org/abs/2608.15075)], 2026.8
+
+1. **Training-Free P&ID Information Extraction Through a Hybrid Computer Vision and Vision Language Model Pipeline for Digital Twins** `Advanced Engineering Informatics`
+
+   _Rafay Hayat Ali, Chan Young Park, Ashrant Aryal, H. David Jeong, Ghang Lee._ [[Paper](https://doi.org/10.1016/j.aei.2026.105125)], 2026.8
+
+1. **VortexChat: An Agentic Framework for Autonomous Multi-Objective Integrated Photonic Design** `Preprint`
+
+   _Faqian Chong, Yulun Wu, Shilong Li, Andrew Forbes, Hongsheng Chen, Song Han._ [[Paper](https://arxiv.org/abs/2608.20688)], 2026.8
+
+1. **Unlocking Multimodal Protein Language Models at Inference Time** `Preprint`
+
+   _Yi Zhou, Qipeng Wang, Yunqing Liu, Jun Xia, Qing Li, Wenqi Fan._ [[Paper](https://arxiv.org/abs/2608.25855)], [[Code](https://github.com/EchoChou990919/mplm_inference)], 2026.8
+
 
 ## MLLM Math/STEM Dataset
 
@@ -263,6 +327,9 @@
 | [**CADFS**](https://voyleg.github.io/cadfs/) | [CADFS: A Big CAD Program Dataset and Framework for Computer-Aided Design with Large Language Models](https://arxiv.org/abs/2605.01925) | 450K real-world CAD models represented with FeatureScript and spanning 15 modeling operations for richer CAD generation. |
 | [**DocAtlas**](https://github.com/ahmedheakl/docatlas_instruct) | [DocAtlas: Multilingual Document Understanding Across 80+ Languages](https://arxiv.org/abs/2605.12623) | High-fidelity OCR datasets and benchmarks covering 82 languages and 9 document understanding evaluation tasks. |
 | [**Sentinel2Cap**](https://arxiv.org/abs/2605.03189) | [Sentinel2Cap: A Human-Annotated Benchmark Dataset for Multimodal Remote Sensing Image Captioning](https://arxiv.org/abs/2605.03189) | A human-annotated multimodal remote sensing captioning dataset pairing Sentinel-1 SAR and Sentinel-2 multi-spectral image patches with validated captions. |
+| [**Ryze Evidence-Enriched Dataset**](https://github.com/Chivier/Ryze) | [Ryze: Evidence-Enriched Data Synthesis from Biomedical Papers](https://arxiv.org/abs/2606.00902) | An automatically synthesized biomedical SFT corpus whose QA pairs retain the supporting visual element, caption, extracted structure, and referring prose; the pipeline produces millions of domain QA tokens without human annotation. |
+| [**LabEmbodied-Data**](https://zjunlp.github.io/LabVLA/) | [LabVLA: Grounding Vision-Language-Action Models in Scientific Laboratories](https://arxiv.org/abs/2606.13578) | Success-filtered laboratory robot demonstrations with multi-camera observations, language instructions, robot states, action trajectories, and structured annotations across 16 robot platforms and four task families. |
+| [**FusionRS**](https://github.com/frozy129/FusionRS) | [FusionRS: A Large-Scale RGB-Infrared-Style Remote Sensing Dataset for Cross-Modal Vision-Language Learning](https://arxiv.org/abs/2606.17020) | 600K aligned RGB-infrared-style remote-sensing records with 599,992 source-text pairs and 45,913 IR-aware captions, organized into group-aware 580K/10K/10K train/validation/test splits. |
 
 ## MLLM Math/STEM Benchmark
 
@@ -373,6 +440,11 @@
 | [**Vision2Code**](https://image2code.github.io/vision2code/) | [Vision2Code: A Multi-Domain Benchmark for Evaluating Image-to-Code Generation](https://arxiv.org/abs/2605.11307) | A reference-code-free benchmark and evaluation framework for image-to-code generation across multiple visual domains. |
 | [**UHR-Micro**](https://github.com/MiliLab/UHR-Micro) | [UHR-Micro: Diagnosing and Mitigating the Resolution Illusion in Earth Observation VLMs](https://arxiv.org/abs/2605.12237) | Diagnoses micro-target perception failures in ultra-high-resolution Earth observation VLMs. |
 | [**CiteVQA**](https://github.com/opendatalab/CiteVQA) | [CiteVQA: Benchmarking Evidence Attribution for Trustworthy Document Intelligence](https://arxiv.org/abs/2605.12882) | Tests whether document VQA models cite and ground the visual or textual evidence supporting their answers. |
+| [**IndustryBench-MIPU**](https://github.com/alibaba-multimodal-industrial-ai/IndustryBench-MIPU) | [IndustryBench-MIPU: Benchmarking Multi-Image Attribute Value Extraction for Industrial Products](https://arxiv.org/abs/2606.14383) | 4,559 industrial products, 27,652 images, and 103,703 attribute annotations across 18 categories for evaluating multi-image technical specification extraction. |
+| [**DashboardMimic**](https://arxiv.org/abs/2607.04727) | [Dashboard2Code: Evaluating Multimodal Models on Reconstructing Interactive Dashboards](https://arxiv.org/abs/2607.04727) | 180 manually verified Plotly+Dash dashboard-code pairs spanning three difficulty levels, 20 visualization types, and eight interaction patterns, with dynamic tests for visual and behavioral fidelity. |
+| [**SVLAT for MLLMs**](https://github.com/patdmp/mllm-scivis-lit-benchmark) | [Benchmarking Multimodal Large Language Models for Scientific Visualization Literacy](https://arxiv.org/abs/2607.15176) | Evaluates six MLLMs on a standardized 49-item scientific-visualization literacy test built from 18 visualizations, eight techniques, and 11 task types, with comparison data from 485 human participants. |
+| [**TableParseMap**](https://arxiv.org/abs/2608.09842) | [From Diagnosis to Correction: Benchmarking and Improving Real-World Table Parsing](https://arxiv.org/abs/2608.09842) | 916 real-world complex tables organized into five challenging scenarios and nine failure types, accompanied by a 1,977-table Consensus-Hard Set for cross-parser evaluation. |
+| [**SonarBench**](https://arxiv.org/abs/2608.24325) | [SonarLLM: A Native Sonar-Optical Multimodal Large Language Model for Underwater Perception](https://arxiv.org/abs/2608.24325) | A paired sonar-optical benchmark covering recognition, counting, VQA, and captioning across 25 subsets, with controlled optical degradation to isolate cross-modal complementarity under turbidity. |
 
 
 ## Contributors
